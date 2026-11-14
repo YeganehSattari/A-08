@@ -1,0 +1,22 @@
+2026-11-14 09:00:01 INFO server started
+2026-11-14 09:00:05 DEBUG loading config
+2026-11-14 09:01:10 INFO user=sara logged in
+2026-11-14 09:02:15 INFO user=ali logged in
+2026-11-14 09:03:20 WARNING disk usage at 85 percent
+2026-11-14 09:04:25 INFO user=mina logged in
+2026-11-14 09:05:30 ERROR user=sara payment failed
+2026-11-14 09:06:35 INFO user=sara viewed dashboard
+2026-11-14 09:07:40 ERROR database timeout
+2026-11-14 09:08:45 INFO user=ali uploaded report
+2026-11-14 09:09:50 WARNING user=mina slow response
+2026-11-14 09:10:55 DEBUG cache miss
+2026-11-14 09:12:00 INFO user=sara updated profile
+2026-11-14 09:13:05 ERROR user=ali permission denied
+2026-11-14 09:14:10 WARNING memory usage high
+2026-11-14 09:15:15 INFO user=mina logged out
+2026-11-14 09:16:20 ERROR user=sara upload failed
+2026-11-14 09:17:25 INFO user=sara logged out
+2026-11-14 09:18:30 WARNING cpu temperature high
+2026-11-14 09:19:35 INFO user=ali logged out
+2026-11-14 09:20:40 ERROR user=sara disk write failed
+2026-11-14 09:21:45 INFO server heartbeat ok
