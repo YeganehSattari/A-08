@@ -1,3 +1,4 @@
 Once upon a time, an intern opened a terminal for the first time.
 She typed her first command and the computer answered.
 Then a bug appeared, and it looked scary.
+She read the error from the bottom up and fixed it.
