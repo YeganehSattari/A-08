@@ -1,7 +1,7 @@
 # card.py - prints an English business card with an aligned ASCII frame.
 # Change only the four variables below; the frame resizes itself.
 
-name = "Sara Ahmadi"
+name = "Yeganeh Sattari"
 track = "ALPHA - Agentic AI"
 city = "Tehran"
 motto = "Ship it, then improve it."
