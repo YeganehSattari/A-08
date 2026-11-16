@@ -1,11 +1,11 @@
-# a-08 - INTERN.EXE, Track ALPHA
+# A-08 - INTERN.EXE, Track ALPHA
 
-My learning repository for the 16-week Agentic AI program: every week is a folder with
+My learning repository for the 6-week Agentic AI program: every week is a folder with
 the exercises, notes and small projects I built.
 
 ## About me
 
-I am YeganehSattari, on the ALPHA (Agentic AI) track of Diapazon Academy's INTERN.EXE program, and my goal is to learn the foundations of building AI agents step by step in 16 weeks.
+I am YeganehSattari, on the ALPHA (Agentic AI) track of Diapazon Academy's INTERN.EXE program, and my goal is to learn the foundations of building AI agents step by step in 6 weeks.
 
 ## Progress
 
@@ -17,16 +17,6 @@ I am YeganehSattari, on the ALPHA (Agentic AI) track of Diapazon Academy's INTER
 | Week 4 | todo |
 | Week 5 | todo |
 | Week 6 | todo |
-| Week 7 | todo |
-| Week 8 | todo |
-| Week 9 | todo |
-| Week 10 | todo |
-| Week 11 | todo |
-| Week 12 | todo |
-| Week 13 | todo |
-| Week 14 | todo |
-| Week 15 | todo |
-| Week 16 | todo |
 
 ## Environment
 
@@ -43,15 +33,8 @@ I am YeganehSattari, on the ALPHA (Agentic AI) track of Diapazon Academy's INTER
 ## How to run
 
 ```bash
-git clone https://github.com/YeganehSattari/a-08.git
-cd a-08
-
-# Day 2 - log analyzer
-(cd week-01/day-2 && bash analyze.sh)
-
-# Day 3 - business card and the weather-card project
-python3 week-01/day-3/card.py
-(cd week-01/day-3/weather-card && uv run main.py)
+git clone https://github.com/YeganehSattari/A-08.git
+cd A-08
 ```
 
 ## Week 1 - days
